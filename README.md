@@ -35,7 +35,7 @@ Here are a couple of projects I've been involved in:
 
 I'm always eager to connect with fellow developers and enthusiasts. Feel free to reach out to me via:
 
-- LinkedIn: **[Aarohi Shah](https://linkedin.com/in/aarohi-shah-22b0b3187)**
+- LinkedIn: **[Aarohi Shah](https://www.linkedin.com/in/aarohi-shah-22b0b3187/)**
 - Email: **aarohi.citrusbug@gmail.com**
 
 ## ⚡ Fun Fact
