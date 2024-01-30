@@ -6,7 +6,7 @@
 
 🚀 **Full Stack Software Developer** | 💻 **JavaScript, React, Redux, Vue, PHP, Laravel, CodeIgniter, Node.js, AI/ML Enthusiast**
 
-Welcome to my GitHub profile! I'm **Arohi Shah**, a passionate **full-stack software developer** with expertise in **JavaScript, React, Redux, Vue, PHP, Laravel, CodeIgniter, Node.js, and AI/ML**. With a drive for innovation, I aim to create impactful solutions that address real-world challenges. Let's explore some of my projects and skills together!
+Welcome to my GitHub profile! I'm **Aarohi Shah**, a passionate **full-stack software developer** with expertise in **JavaScript, React, Redux, Vue, PHP, Laravel, CodeIgniter, Node.js, and AI/ML**. With a drive for innovation, I aim to create impactful solutions that address real-world challenges. Let's explore some of my projects and skills together!
 
 ## 💻 My Tech Stack
 
