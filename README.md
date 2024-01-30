@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47smq5uajsv0iovb1f6qzlt74k4eybtfdi7zwckztu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Arohi Citrusbug" width="700"/>
 </p>
 
-# Hey there, I'm Arohi Citrusbug! 👋
+# Hey there, I'm Aarohi Shah! 👋
 
 🚀 **Full Stack Software Developer** | 💻 **JavaScript, React, Redux, Vue, PHP, Laravel, CodeIgniter, Node.js, AI/ML Enthusiast**
 
-Welcome to my GitHub profile! I'm **Arohi Citrusbug**, a passionate **full-stack software developer** with expertise in **JavaScript, React, Redux, Vue, PHP, Laravel, CodeIgniter, Node.js, and AI/ML**. With a drive for innovation, I aim to create impactful solutions that address real-world challenges. Let's explore some of my projects and skills together!
+Welcome to my GitHub profile! I'm **Arohi Shah**, a passionate **full-stack software developer** with expertise in **JavaScript, React, Redux, Vue, PHP, Laravel, CodeIgniter, Node.js, and AI/ML**. With a drive for innovation, I aim to create impactful solutions that address real-world challenges. Let's explore some of my projects and skills together!
 
 ## 💻 My Tech Stack
 
@@ -35,8 +35,8 @@ Here are a couple of projects I've been involved in:
 
 I'm always eager to connect with fellow developers and enthusiasts. Feel free to reach out to me via:
 
-- LinkedIn: [Arohi Citrusbug](https://linkedin.com/in/aarohi-shah-22b0b3187)
-- Email: aarohi.citrusbug@gmail.com
+- LinkedIn: **[Aarohi Shah](https://linkedin.com/in/aarohi-shah-22b0b3187)**
+- Email: **aarohi.citrusbug@gmail.com**
 
 ## ⚡ Fun Fact
 
